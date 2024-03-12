@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Vendor -->
+  <project path="vendor/partner_gms" name="projectkanged/platform_vendor_partner_gms" remote="gitlab-private" revision="fourteen" />
+  <project path="vendor/google/cheetah" name="projectkanged/platform_vendor_google_cheetah" remote="gitlab-private" revision="fourteen" />
+  <project path="vendor/kanged" name="ProjectKanged/platform_vendor_kanged" remote="github" revision="fourteen" />
+</manifest>
